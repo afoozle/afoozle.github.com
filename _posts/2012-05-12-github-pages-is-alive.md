@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Github pages is alive\!"
+title: "Github pages is alive!"
 description: "Github Pages experimentation..."
-category: 
+category: blog
 tags: []
 ---
 {% include JB/setup %}
